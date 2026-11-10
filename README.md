@@ -23,6 +23,11 @@ files in this repo
 • main.ino - the tiny script that tells the microcontroller when to flip the switch.
 • BOM.md - the shopping list and links for parts (plus a soldering iron kit because i dont have any solder wire at home yet lol).
 built for hack club forge! 
+<img width="1587" height="866" alt="Screenshot 2026-11-10 172939" src="https://github.com/user-attachments/assets/d9a1b3a0-99ec-4fc7-8524-ae55b255e299" />
+
+<img width="755" height="606" alt="Screenshot 2026-11-10 173622" src="https://github.com/user-attachments/assets/68c96649-7dae-426c-94c3-09928dc70348" />
+
+
 # Bill of Materials (BOM) & Budget - Automated Plant Care v1
 
 | Designator | Component Name | Description / Package | Qty | Cost (INR) | Cost (USD Approx.) | Direct Purchase Link |
