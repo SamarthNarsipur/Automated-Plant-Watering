@@ -2,12 +2,14 @@
 Automated Plant Care v1 
 
 yo, welcome to version 1! i built a custom arduino nano backpack shield because i wanted something sleek and tiny that won't look like a giant brick sitting next to my small plants.
+<img width="1788" height="757" alt="Screenshot 2026-11-10 161217" src="https://github.com/user-attachments/assets/7f3fa8ee-4601-46cc-bcf5-0814dcb2d02d" />
 
 what this hardware actually does
 
 basically, i always forget to water my plants. so this board has a soil moisture sensor probe that sits in the dirt and acts like its eyes. if the dirt gets super dry, the arduino detects it and flashes a signal over to a pn2222a transistor switch. the transistor acts like an inline electronic gate keeper, allowing current to flood down into a mini 5v submersible water pump to give the plant a quick 4-second drink. then it sleeps for a minute and loops forever.
 it is completely autonomous so my plants can survive my terrible memory.
 i also left some digital and analog pins wide open on the nano footprint header layout. that way, if i want to upgrade it later down the line, i can easily breakout wires for an oled screen display to track live moisture metrics or plug in a second pump channel for another plant pot without rebuilding the entire power switching grid from scratch.
+<img width="933" height="586" alt="Screenshot 2026-11-10 161739" src="https://github.com/user-attachments/assets/629d8b40-13f2-4214-a011-21b4116568f1" />
 
 how to set it up
 
