@@ -27,7 +27,9 @@ built for hack club forge!
 
 <img width="755" height="606" alt="Screenshot 2026-11-10 173622" src="https://github.com/user-attachments/assets/68c96649-7dae-426c-94c3-09928dc70348" />
 
-
+onshape links for the case
+1. https://cad.onshape.com/documents/dc3bb86a8ae5408e919ddfb3/w/a6c21399b65a292ff43e633e/e/870f76d3df2bffd9df0bdc23
+2. https://cad.onshape.com/documents/dc3bb86a8ae5408e919ddfb3/w/a6c21399b65a292ff43e633e/e/acd912c24c61a0c706c50cb3
 # Bill of Materials (BOM) & Budget - Automated Plant Care v1
 
 | Designator | Component Name | Description / Package | Qty | Cost (INR) | Cost (USD Approx.) | Direct Purchase Link |
